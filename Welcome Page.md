@@ -54,4 +54,4 @@ Good luck with your journey into data structures!
 
 ---
 
-*Navigate to the next section: [Stack](1-stack.md)*
+*Navigate to the next section: [Stack](stack.md)*
