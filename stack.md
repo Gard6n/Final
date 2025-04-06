@@ -273,4 +273,4 @@ The solution is provided in the stack directory.
 
 ---
 
-*Navigate to: [Linked List](2-linked-list.md) | [Tree](3-tree.md)*
+*Navigate to: [Linked List](linked-list.md) | [Tree](tree.md)*
