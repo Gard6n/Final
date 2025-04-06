@@ -44,14 +44,6 @@ Each section follows a consistent format:
 
 I recommend working through each section sequentially, but feel free to jump to specific topics if you already have experience with some data structures.
 
-## Contact Information
-
-If you have questions or need clarification on any topic covered in this tutorial, feel free to reach out:
-
-- **Email**: tylerscarsella@byui.edu
-
-Good luck with your journey into data structures!
-
 ---
 
 *Navigate to the next section: [Stack](stack.md)*
