@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to this comprehensive tutorial on data structures using C#! This tutorial is designed to help you understand fundamental data structures and how to implement them effectively in C#. Whether you're a student looking to strengthen your knowledge for academic purposes or a professional developer aiming to improve your coding skills, this tutorial will provide you with the knowledge and practice you need.
+Welcome to this comprehensive tutorial on data structures using C#! This tutorial is designed to help you understand fundamental data structures and how to implement them effectively in C#.
 
 Data structures are essential components in computer science and software development. They define the way we organize and manipulate data, directly influencing the efficiency and performance of our programs. A strong understanding of data structures will not only help you write better code but also prepare you for technical interviews and complex programming challenges.
 
@@ -48,9 +48,7 @@ I recommend working through each section sequentially, but feel free to jump to 
 
 If you have questions or need clarification on any topic covered in this tutorial, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Office Hours**: Monday & Wednesday, 2:00 PM - 4:00 PM
-- **Office Location**: Smith Building, Room 315
+- **Email**: tylerscarsella@byui.edu
 
 Good luck with your journey into data structures!
 

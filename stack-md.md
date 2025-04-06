@@ -4,8 +4,6 @@
 
 A stack is one of the most fundamental data structures in computer science. It follows the Last In, First Out (LIFO) principle - the last element added to the stack is the first one to be removed. Think of a stack like a pile of plates: you can only add or remove plates from the top of the pile.
 
-![Stack Visualization](https://example.com/stack-visualization.png)
-
 The name "stack" comes from the real-world analogy of stacking physical objects on top of each other. This simple yet powerful concept has numerous applications in computing, from function call management to expression evaluation.
 
 ## Core Characteristics
@@ -270,9 +268,8 @@ Output: 22
 
 ### Try It Yourself
 
-Before looking at the solution, try to implement this yourself. Once you're done, you can check your solution against the provided one.
-
-The solution is provided in the ds1-solution directory.
+Before looking at the solution, try to implement this yourself.
+The solution is provided in the stack directory.
 
 ---
 
